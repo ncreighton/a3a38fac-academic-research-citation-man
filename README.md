@@ -46,6 +46,7 @@ Found a bug? [Open an issue](https://github.com/digitalforge/a3a38fac/issues).
 MIT — see [LICENSE](LICENSE) for details.
 
 
+
 ---
 
 ## Free vs Pro
@@ -65,5 +66,8 @@ MIT — see [LICENSE](LICENSE) for details.
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://whop.com/academic-research-citation-manager-and-paper-tracker-vs-code-extension)**
+**[Get Pro Version](https://buy.stripe.com/fZu3cv6mXbUE7BCbzScZb0l)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu3cv6mXbUE7BCbzScZb0l)
+- [Buy on Whop](https://whop.com/academic-research-citation-manager-and-paper-tracker-vs-code-extension)
 
